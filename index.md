@@ -1,0 +1,11 @@
+# Statutes of the Polish Academic Network Abroad (POLANA)
+
+- [Section I: The Association](01.md)
+- [Section II: Members of the Association](02.md)
+- [Section III: The General Assembly](03.md)
+- [Section IV: Accounting and Auditing](04.md)
+- [Section V: Committees](05.md)
+- [Section VI: Statutes](06.md)
+- [Section VII: Liabilities and Signature](07.md)
+- [Section VIII: Dissolution](08.md)
+- [Section IX: Closure](09.md) 
